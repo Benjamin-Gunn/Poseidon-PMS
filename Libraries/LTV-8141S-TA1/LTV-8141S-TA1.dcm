@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTV-8141S-TA1
+D Transistor Output Optocouplers Optocoupler
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-8141_8241_8441%20(M,S,S_TA1).pdf
+$ENDCMP
+#
+#End Doc Library
